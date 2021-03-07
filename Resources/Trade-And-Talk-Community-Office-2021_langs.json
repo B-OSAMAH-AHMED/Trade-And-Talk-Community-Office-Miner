@@ -5,7 +5,7 @@
         "good_bye": " Good-Bye",
         "good_morning": "Good-Morning",
         "good_afternoon": "Good-Afternoon",
-        "greeting_afternoon": "Good-Afternoon",
+        "good_afternoon": "Good-Afternoon",
         "good_evening": "Good-Evening",
         "welcome_back": "Welcome-Back",
 
@@ -76,7 +76,7 @@
         "dowidzenia dowidzenia",
         "dzień dobry dzień dobry",
         "dzień dobry": "Dzień dobry",
-        "greeting_afternoon": "Good-Afternoon",
+        "good_afternoon": "Good-Afternoon",
         "good_evening": "Good-Evening",
         "welcome_back": "Witamy ponownie",
 
@@ -218,7 +218,7 @@
         "adiós, adiós",
         "Buenos días, buenos días",
         "good_afternoon": "Buenas tardes",
-        "greeting_afternoon": "Buenas tardes",
+        "good_afternoon": "Buenas tardes",
         "good_evening": "Buenas noches",
         "welcome_back": "Bienvenido de nuevo",
 
@@ -289,7 +289,7 @@
         "Auf Wiedersehen": "Auf Wiedersehen",
         "guten Morgen guten Morgen",
         "guten Tag guten Tag",
-        "greeting_afternoon": "Good-Afternoon",
+        "good_afternoon": "Good-Afternoon",
         "good_evening": "Good-Evening",
         "welcome_back": "Welcome-Back",
 
@@ -360,7 +360,7 @@
         "au revoir au revoir",
         "Bonjour bonjour",
         "good_afternoon": "Good-Afternoon",
-        "greet_afternoon": "Good-Afternoon",
+        "good_afternoon": "Good-Afternoon",
         "Bonsoir bonsoir",
         "welcome_back": "Bienvenue",
 
@@ -431,7 +431,7 @@
         "good_bye": "Zbohom",
         "good_morning": "Dobré ráno",
         "good_afternoon": "Dobré popoludnie",
-        "greeting_afternoon": "Dobré popoludnie",
+        "good_afternoon": "Dobré popoludnie",
         "good_evening": "Dobrý večer",
         "welcome_back": "Vitajte späť",
 
