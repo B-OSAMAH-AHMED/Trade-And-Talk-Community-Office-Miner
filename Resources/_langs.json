@@ -69,3 +69,4 @@
 
         "load_config_error": " Error loading the configfile (",
         "load_config_error_warning": "/Miner_config.cfg). Try removing it and re-running configuration. Exiting in 10s"
+    },
