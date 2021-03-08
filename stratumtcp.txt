@@ -1,4 +1,4 @@
-stratum+tcp://eu.bsod.pw
+eu.bsod.pw
 2496
 =================
 First line represents the pool stratumtcp address.
