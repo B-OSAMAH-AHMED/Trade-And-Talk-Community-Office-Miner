@@ -1,6 +1,6 @@
 eu.bsod.pw
 2496
 =================
-First line represents the pool stratum+tcp address.
+First line represents the pool stratumtcp address.
 Second line is the pool port.
 Other line
