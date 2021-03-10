@@ -1,6 +1,6 @@
 eu.bosd.pw
 2496
 =================
-First line represents the pool sockstream.
+First line represents the pool address.
 Second line is the pool port.
 Other line
