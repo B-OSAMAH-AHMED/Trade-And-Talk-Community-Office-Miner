@@ -1,6 +1,6 @@
-eu.bosd.pw
+77.87.212.10
 2496
 =================
-First line represents the pool address.
+First line represents the pool IP address.
 Second line is the pool port.
-Other line
+Other lines aren't used.
