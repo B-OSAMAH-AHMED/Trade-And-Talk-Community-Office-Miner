@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
-##########################################
-# Trade-And-Talk-Community-Office-2021 (v0.0.1)
+##################################################################
+# Trade-And-Talk-Community-Office-2021 (v 0.0.1)
 # https://github.com/thecode3/Trade-And-Talk-Community-Office-2021
 # THECODE3-10osamaahmed92@gmail.com
 # © Trade And Talk Community 2021
-##########################################
+# BSD 3-Clause License
+# Copyright (c) 2021, Osama Ahmed
+# All rights reserved.
+##################################################################
 import socket, threading, time, re, subprocess, configparser, sys, datetime, os, json  # Import libraries
 from pathlib import Path
 from signal import signal, SIGINT
