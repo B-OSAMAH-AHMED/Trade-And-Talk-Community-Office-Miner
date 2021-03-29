@@ -1,4 +1,4 @@
-51.38.99.78
+77.87.212.10
 2496
 =================
 First line represents the pool IP address.
