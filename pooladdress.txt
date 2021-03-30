@@ -1,6 +1,6 @@
 77.87.212.10
 2496
 =================
-First line represents the pool IP address.
-Second line is the pool port.
+First line represents the server IP address.
+Second line is the server port.
 Other lines aren't used.
