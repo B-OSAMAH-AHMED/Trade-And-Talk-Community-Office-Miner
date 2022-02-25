@@ -1,6 +1,2 @@
 stratum+tcp://eu.bsod.pw
 3333
-=================
-First line represents the server IP address.
-Second line is the server port.
-Other lines aren't used.
