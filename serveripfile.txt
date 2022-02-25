@@ -1,4 +1,4 @@
-eu.bsod.pw
+stratum+tcp://eu.bsod.pw
 3333
 =================
 First line represents the server IP address.
