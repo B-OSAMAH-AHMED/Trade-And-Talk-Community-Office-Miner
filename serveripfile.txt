@@ -1,2 +1,6 @@
-stratum+tcp://eu.bsod.pw
-3333
+217.182.245.83
+9996
+=================
+First line represents the pool IP address.
+Second line is the pool port.
+Other lines aren't used.
